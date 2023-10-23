@@ -2,3 +2,16 @@
     width: 100%;
     box-sizing: border-box;
 }
+
+form {
+    margin: 20% auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(4, 16, 37);
+    width: 50%;
+    border-radius: 25px;
+    padding: 100px 50px;
+    border: 1px solid rgb(136, 136, 136);
+}

@@ -1,0 +1,17 @@
+.form-input {
+    margin: 20px auto;
+    font-size: 1.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.input-field {
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 0px;
+    width: 100%;
+    font-size: 1em;
+    border: none;
+}

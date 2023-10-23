@@ -6,7 +6,7 @@ import '../Button/Button.css'
           padding: '10px 20px',
           border: 'none',
           borderRadius: '5px',
-          fontSize: '16px',
+          fontSize: '1.5em',
           cursor: 'pointer',
           outline: 'none',
         },
