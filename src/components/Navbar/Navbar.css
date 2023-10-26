@@ -1,11 +1,6 @@
 .navbar-container {
     height: 150px;
     background: rgb(4, 16, 37);
-    position: absolute;
-    z-index: -1;
-    top: 0;
-    left: 0;
-    right: 0;
     padding: 50px;
 }
 

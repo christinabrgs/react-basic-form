@@ -1,6 +1,6 @@
 .button {
-    margin: 05% 40%;
-    width: 20%;
+    margin: 05% auto;
+    width: 150px;
     padding: 10px 20px;
     border-radius: 5px;
     font-size: 1.5em;
